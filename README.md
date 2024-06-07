@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joseph! </h1>
 
-<h2>👨‍💻 My Personal Passion Projects:</h2>
+<h2>👨‍💻 My Passion Projects:</h2>
 
 - <b>Home Network Upgrade</b>
   - [Source](https://github.com/turnup2ez/Home-Network-Upgrade)
