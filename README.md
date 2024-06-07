@@ -3,9 +3,9 @@
 <h2>👨‍💻 My CyberSecurity Projects:</h2>
 
 - <b>Home Network Upgrade</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Source](https://github.com/turnup2ez/Home-Network-Upgrade)
 - <b>SOC Automation Lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Source](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 
 <h2>📺 Popular YouTube Videos</h2>
