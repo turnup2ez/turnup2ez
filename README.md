@@ -5,7 +5,7 @@
 - <b>Home Network Upgrade</b>
   - [Source](https://github.com/turnup2ez/Home-Network-Upgrade)
 - <b>SOC Automation Lab</b>
-  - [Source](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Source](https://github.com/turnup2ez/SOC-Lab).
   
 
 <h2>📺 Popular YouTube Videos</h2>
