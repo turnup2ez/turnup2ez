@@ -1,30 +1,48 @@
-<h1>Hi, I'm Joseph! </h1>
+# Hello, I'm Joseph. This is my Portfolio (v1.0)
+<a href="https://www.linkedin.com/in/josephsicre/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 My Passion Projects:</h2>
+Im a driven person with a heavy interest in technology and a dedication to learning.
 
-- <b>Home Network Upgrade</b>
-  - [Source](https://github.com/turnup2ez/Home-Network-Upgrade)
-- <b>SOC Automation Lab</b>
-  - [Source](https://github.com/turnup2ez/SOC-Lab)
-  
-<!--
-<h2> 🤳 Connect with me:</h2>
+## Objective
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+My journey with technology started young and led me to fall in love with video games, being on the internet at a young age has lead me to be cautious of online threats and has peaked my interest in cybersecurity. Through years of being curious on the internet and gaining many skills in various IT areas becuase of my PC company, I am now looking to transition into the cybersecurity field.
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-ISC2%20CC-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Skills
+
+| Skills                                         | Associated Experience      |
+|-----------------------------------------------|----------------------------|
+| Hardware & Software Troubleshooting           | ITAD Technologies|
+| Network Traffic Monitoring & Designing        | <a href="https://google.com">Home Network Upgrade</a>|
+| Linux/Command Line                            | Linux Bootcamp & Daily Usage |
+| Documentation & Problem-Solving               | 2EZ Builds (My side business) |
 
 
-[twitter]: https://twitter.com/turnup2ez
-[linkedin]: https://linkedin.com/in/josephsicre
+## Tools
 
-Here are some ideas to get you started:
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-PuTTY-007ACC?&style=for-the-badge&logo=PuTTY&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Security
+<div>
+    <img src="https://img.shields.io/badge/-Snort-D6343A?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
+
+### Documentation
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+## Projects
+- Home Network Upgrade
