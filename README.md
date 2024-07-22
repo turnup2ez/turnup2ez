@@ -37,7 +37,7 @@ My journey with technology started young and led me to fall in love with video g
     <img src="https://img.shields.io/badge/-Snort-D6343A?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Documentation
+### Documentation & Collaboration
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
