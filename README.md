@@ -17,8 +17,8 @@ My journey with technology started young and led me to fall in love with video g
 
 | Skills                                         | Associated Experience      |
 |-----------------------------------------------|----------------------------|
-| Hardware & Software Troubleshooting           | ITAD Technologies|
-| Network Traffic Monitoring & Designing        | <a href="https://google.com">Home Lab/Upgrade</a>|
+| Hardware & Software Troubleshooting           | ITAD Technologies          |
+| Network Traffic Monitoring & Designing        | Home Lab/Upgrade           |
 | Linux/Command Line                            | Linux Bootcamp & Daily Usage |
 | Documentation & Problem-Solving               | 2EZ Builds (My side business) |
 
